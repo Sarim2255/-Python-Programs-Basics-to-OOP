@@ -37,6 +37,14 @@ Here’s what you’ll find in this repository:
 - **Reading and Writing Files**
 - **Working with Text Files**
 
+### 🔴 5. Exception Handling
+
+-Understanding Exceptions and Errors
+-try, except, else, finally, and raise
+-Handling Multiple Exceptions
+-File Handling with Exception Handling
+-Real-world error handling examples
+
 ### 🔴 Object-Oriented Programming (OOP)
 - **Classes and Objects**
 - **Constructors**
