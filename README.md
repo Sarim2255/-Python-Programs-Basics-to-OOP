@@ -1,6 +1,6 @@
 # 🐍 Python Programs – Basics to Advanced (With Libraries & Projects)
 
-🚀 **From Python Basics to OOP and Popular Libraries — all in one place!**
+🚀 **From Python Basics to Advanced Concepts and Popular Libraries — all in one place!**
 Clean, organized, and beginner-friendly code collection for anyone learning or revising Python.
 
 ---
